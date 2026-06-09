@@ -20,7 +20,7 @@ This research explores the hydrodynamic and thermodynamic behavior of gas microe
 
 The complete formal paper with full derivations, detailed physical discussion, and conclusions is available directly in this repository:
 
-👉 **[Read the Full Paper (PDF)](./Modelització_biofísica_de_la_dinàmica_de_microembòlies_gasoses__anàlisi_radial_i_translacional_en_el_torrent_sanguini.pdf)** *(Note: Ensure the uploaded PDF file name matches this link exactly).*
+👉 **[Read the Full Paper (PDF)](./Modelització_biofísica_de_la_dinàmica_de_microembòlies_gasoses__anàlisi_radial_i_translacional_en_el_torrent_sanguini.pdf)** 
 
 ## Author
 
